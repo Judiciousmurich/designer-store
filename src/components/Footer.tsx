@@ -41,7 +41,7 @@ const Footer = () => {
             <h1 className='font-bold'>Useful Links</h1>
             <Link href="/aut/login">Login</Link>
             <Link href="/auth/signup">Signup</Link>
-            <Link href="https://www.github.com/mwongess" target='_blank'>My Portfolio</Link>
+            <Link href="https://judith-muthui-portfolio.netlify.app/" target='_blank'>My Portfolio</Link>
           </div>
         </div>
       </div>
