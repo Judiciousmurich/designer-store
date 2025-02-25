@@ -59,7 +59,7 @@ const Navbar = () => {
                         <p className="text-red-600 font-bold">Logout</p>
                     </HoverCardContent>
                 </HoverCard>
-                {/* <FaRegHeart className="cursor-pointer" /> */}
+              
                 <HoverCard>
                     <HoverCardTrigger>
                         <div className="flex gap-2 items-center hover:text-[#fd6141] cursor-pointer">
