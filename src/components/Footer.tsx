@@ -47,7 +47,7 @@ const Footer = () => {
       </div>
       <div className='flex flex-col text-center sm:text-inherit  items-center justify-center sm:justify-between py-8 sm:px-[3rem] border-t border-slate-300'>
         <p>Copyright DesignerStore.All Rights Reserved</p>
-        <p>Made with ❤️ by <Link className='underline' href="https://www.github.com/mwongess" target='_blank'>Judith Muthui</Link></p>
+        <p>Made with ❤️ by <Link className='underline' href="https://github.com/Judiciousmurich" target='_blank'>Judith Muthui</Link></p>
       </div>
     </div>
   )
